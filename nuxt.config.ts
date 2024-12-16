@@ -9,8 +9,8 @@ export default defineNuxtConfig({
   ],
   app: {
     head: {
-      title: "EmanGarcia - Nuxt Js Personal Portfolio Site",
-      titleTemplate: "EmanGarcia - Nuxt Js Personal Portfolio Site",
+      title: "Emmanuel Garcia - Vue/Nuxt Portfolio Site",
+      titleTemplate: "Emmanuel Garcia - Vue/Nuxt Portfolio Site",
       link: [{ rel: "icon", type: "image/x-icon", href: "/favicon.ico" }],
       htmlAttrs: { lang: "en", dir: "ltr", class: "light scroll-smooth" },
       bodyAttrs: {
@@ -27,7 +27,6 @@ export default defineNuxtConfig({
         { hid: "description", name: "description", content: "" },
         { name: "format-detection", content: "telephone=no" },
       ],
-      link: [],
       script: [],
     },
     baseURL: "/portfolio/", // baseURL: '/<repository>/'
