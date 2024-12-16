@@ -67,6 +67,7 @@ dist
 
 # Static build output
 out
+.output
 
 # Vuepress build output
 .vuepress/dist
