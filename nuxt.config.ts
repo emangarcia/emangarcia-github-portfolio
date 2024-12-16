@@ -11,7 +11,9 @@ export default defineNuxtConfig({
     head: {
       title: "Emmanuel Garcia - Vue/Nuxt Portfolio Site",
       titleTemplate: "Emmanuel Garcia - Vue/Nuxt Portfolio Site",
-      link: [{ rel: "icon", type: "image/x-icon", href: "/favicon.ico" }],
+      link: [
+        { rel: "icon", type: "image/x-icon", href: "/portfolio/favicon.ico" },
+      ],
       htmlAttrs: { lang: "en", dir: "ltr", class: "light scroll-smooth" },
       bodyAttrs: {
         class:

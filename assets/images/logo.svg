@@ -2,13 +2,13 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   height="105.68097"
-   width="673.99695"
+   height="1000"
+   width="1000"
    sodipodi:docname="logo.svg"
    version="1.1"
    id="svg1"
    inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
-   inkscape:export-filename="logo.png"
+   inkscape:export-filename="logo-dark-v3.png"
    inkscape:export-xdpi="57.599998"
    inkscape:export-ydpi="57.599998"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -26,7 +26,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.58"
-     inkscape:cx="465.51724"
+     inkscape:cx="479.31034"
      inkscape:cy="518.10345"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -34,57 +34,50 @@
      showguides="true"
      inkscape:window-width="1344"
      inkscape:window-height="732"
-     inkscape:window-x="0"
-     inkscape:window-y="25"
+     inkscape:window-x="2560"
+     inkscape:window-y="326"
      inkscape:window-maximized="0"
      showborder="true"
      inkscape:showpageshadow="false"
      inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1">
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:export-bgcolor="#efefef00">
     <sodipodi:guide
        id="guide_baseline"
        inkscape:label="baseline"
-       position="-273.45413,-123.71752"
+       position="-105.17241,313.7931"
        orientation="0,1"
        inkscape:locked="false" />
     <sodipodi:guide
        id="guide_ascender"
        inkscape:label="ascender"
-       position="-168.28172,507.48937"
+       position="0,945"
        orientation="0,1"
        inkscape:locked="false" />
     <sodipodi:guide
        id="guide_caps"
        inkscape:label="caps"
-       position="-168.28172,458.48937"
+       position="0,896"
        orientation="0,1"
        inkscape:locked="false" />
     <sodipodi:guide
        id="guide_xheight"
        inkscape:label="xheight"
-       position="-228.62655,202.14457"
+       position="-60.344828,639.65517"
        orientation="0,1"
        inkscape:locked="false" />
     <sodipodi:guide
        id="guide_descender"
        inkscape:label="descender"
-       position="-168.28172,-409.51062"
+       position="0,28"
        orientation="0,1"
        inkscape:locked="false" />
-    <inkscape:page
-       x="0"
-       y="0"
-       width="673.99695"
-       height="105.68097"
-       id="page2"
-       margin="0"
-       bleed="0" />
   </sodipodi:namedview>
   <defs
      id="defs4">
     <rect
        x="148.27586"
-       y="425.86206"
+       y="425.86207"
        width="706.89655"
        height="210.34483"
        id="rect1" />
@@ -103,17 +96,16 @@
   <g
      id="layer1"
      inkscape:groupmode="layer"
-     inkscape:label="Layer 1"
-     transform="translate(-168.28172,-456.80841)">
+     inkscape:label="Layer 1">
     <text
        xml:space="preserve"
        id="text1"
-       style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:98.755px;font-family:Visby;-inkscape-font-specification:'Visby, Medium Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1);display:inline;fill:#000000"
-       transform="matrix(1.1268317,0,0,1.1721064,-1.9155377,-68.515542)"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:98.755px;font-family:Gotham;-inkscape-font-specification:'Gotham, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1);display:inline;fill:#000000;fill-opacity:1"
+       transform="matrix(1.1844822,0,0,1.1721064,-40.704322,-73.351413)"><tspan
          x="148.27539"
-         y="518.00772"
+         y="517.2097"
          id="tspan3"><tspan
-           style="font-style:normal;-inkscape-font-specification:'Visby, Medium'"
+           style="fill:#1a222a"
            id="tspan2">emangarcia.</tspan></tspan></text>
   </g>
 </svg>

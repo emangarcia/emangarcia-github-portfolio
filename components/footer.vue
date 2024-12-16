@@ -10,7 +10,7 @@
             <a href="#" class="text-[22px] focus:outline-none">
               <img
                 src="../assets/images/logo-light-v3.png"
-                class="mx-auto md:me-auto md:ms-0 max-w-[180px]"
+                class="mx-auto md:me-auto md:ms-0 max-w-[150px]"
                 alt=""
               />
             </a>
@@ -25,7 +25,7 @@
           >
             <li class="inline">
               <a
-                href="https://github.com/emangarcia"
+                href="https://www.linkedin.com/in/emanpgarcia/"
                 target="_blank"
                 class="btn btn-icon btn-sm border border-gray-700 rounded-md hover:slate-700 dark:hover:slate-700 hover:bg-slate-700 dark:hover:bg-slate-700"
                 ><i class="uil uil-linkedin" title="Linkedin"></i
@@ -33,7 +33,7 @@
             </li>
             <li class="inline">
               <a
-                href="https://www.facebook.com/shreethemes"
+                href="https://github.com/emangarcia"
                 target="_blank"
                 class="btn btn-icon btn-sm border border-gray-700 rounded-md hover:slate-700 dark:hover:slate-700 hover:bg-slate-700 dark:hover:bg-slate-700"
                 ><i class="uil uil-github align-middle" title="github"></i

@@ -63,7 +63,7 @@
             >Contact Me</a
           >
           <a
-            href="/Emmanuel-Garcias-Resume.pdf"
+            href="/portfolio/Emmanuel-Garcias-Resume.pdf"
             download
             class="btn rounded-md bg-dark hover:bg-slate-800 border-dark hover:border-slate-800 text-white text-sm uppercase font-light"
             type="button"
