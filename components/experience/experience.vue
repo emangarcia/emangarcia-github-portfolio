@@ -5,7 +5,10 @@
     id="experience"
   >
     <div class="container">
-      <div class="grid grid-cols-1 pb-8 text-center">
+      <div
+        class="grid grid-cols-1 pb-8 text-center wow animate__animated animate__fadeInUp"
+        data-wow-delay=".1s"
+      >
         <h3
           class="mb-6 md:text-2xl text-xl md:leading-normal leading-normal font-semibold"
         >
@@ -30,7 +33,10 @@
             class="ms-8 md:ms-0 relative after:content-[''] after:absolute after:top-[9px] after:rounded-full after:z-10 after:w-2.5 after:h-2.5 after:bg-dark md:after:mx-auto ltr:md:after:right-0 ltr:md:after:left-0 rtl:md:after:left-0 rtl:md:after:right-0 ltr:after:-left-9 rtl:after:-right-9 before:content-[''] before:absolute md:before:mx-auto ltr:md:before:right-0 ltr:md:before:left-0 ltr:before:-left-11 rtl:md:before:left-0 rtl:md:before:right-0 rtl:before:-right-11 before:rounded-full before:z-10 before:border-2 before:border-dashed before:border-gray-300 dark:before:border-gray-700 before:top-0 before:w-7 before:h-7 before:bg-white dark:before:bg-slate-900"
           >
             <div class="grid md:grid-cols-2">
-              <div class="md:text-end md:me-8 relative">
+              <div
+                class="md:text-end md:me-8 relative wow animate__animated animate__fadeInUp"
+                data-wow-delay=".3s"
+              >
                 <img
                   src="assets/images/logos/alliance_global_logo.jpeg"
                   class="rounded-full h-9 w-9 md:ms-auto"
@@ -41,7 +47,8 @@
               </div>
 
               <div
-                class="ltr:float-left rtl:float-right text-start md:ms-8 mt-6 md:mt-0"
+                class="ltr:float-left rtl:float-right text-start md:ms-8 mt-6 md:mt-0 wow animate__animated animate__fadeInUp"
+                data-wow-delay=".5s"
               >
                 <h5 class="title mb-1 font-semibold">Web Developer</h5>
                 <p class="mt-3 mb-0 text-slate-500 text-[15px]">
@@ -60,7 +67,10 @@
             class="mt-12 ms-8 md:ms-0 relative after:content-[''] after:absolute after:top-[9px] after:rounded-full after:z-10 after:w-2.5 after:h-2.5 after:bg-dark md:after:mx-auto ltr:md:after:right-0 ltr:md:after:left-0 ltr:after:-left-9 rtl:md:after:left-0 rtl:md:after:right-0 rtl:after:-right-9 before:content-[''] before:absolute md:before:mx-auto ltr:md:before:right-0 ltr:md:before:left-0 ltr:before:-left-11 rtl:md:before:left-0 rtl:md:before:right-0 rtl:before:-right-11 before:rounded-full before:z-10 before:border-2 before:border-dashed before:border-gray-300 dark:before:border-gray-700 before:top-0 before:w-7 before:h-7 before:bg-white dark:before:bg-slate-900"
           >
             <div class="grid md:grid-cols-2">
-              <div class="text-start md:ms-8 relative md:order-2">
+              <div
+                class="text-start md:ms-8 relative md:order-2 wow animate__animated animate__fadeInUp"
+                data-wow-delay=".7s"
+              >
                 <img
                   src="assets/images/logos/freelance-icon.png"
                   class="rounded-full h-9 w-auto md:me-auto"
@@ -71,7 +81,8 @@
               </div>
 
               <div
-                class="ltr:float-left rtl:float-right md:text-end md:me-8 mt-6 md:mt-0 md:order-1"
+                class="ltr:float-left rtl:float-right md:text-end md:me-8 mt-6 md:mt-0 md:order-1 wow animate__animated animate__fadeInUp"
+                data-wow-delay=".9s"
               >
                 <h5 class="title mb-1 font-semibold">Front-End Developer</h5>
                 <p class="mt-3 mb-0 text-slate-500 text-[15px]">
@@ -90,7 +101,10 @@
             class="mt-12 ms-8 md:ms-0 relative after:content-[''] after:absolute after:top-[9px] after:rounded-full after:z-10 after:w-2.5 after:h-2.5 after:bg-dark md:after:mx-auto ltr:md:after:right-0 ltr:md:after:left-0 ltr:after:-left-9 rtl:md:after:left-0 rtl:md:after:right-0 rtl:after:-right-9 before:content-[''] before:absolute md:before:mx-auto ltr:md:before:right-0 ltr:md:before:left-0 ltr:before:-left-11 rtl:md:before:left-0 rtl:md:before:right-0 rtl:before:-right-11 before:rounded-full before:z-10 before:border-2 before:border-dashed before:border-gray-300 dark:before:border-gray-700 before:top-0 before:w-7 before:h-7 before:bg-white dark:before:bg-slate-900"
           >
             <div class="grid md:grid-cols-2">
-              <div class="md:text-end md:me-8 relative">
+              <div
+                class="md:text-end md:me-8 relative wow animate__animated animate__fadeInUp"
+                data-wow-delay="1.1s"
+              >
                 <img
                   src="assets/images/logos/we_are_fine_logo.jpeg"
                   class="rounded-full h-9 w-9 md:ms-auto"
@@ -101,7 +115,8 @@
               </div>
 
               <div
-                class="ltr:float-left rtl:float-right text-start md:ms-8 mt-6 md:mt-0"
+                class="ltr:float-left rtl:float-right text-start md:ms-8 mt-6 md:mt-0 wow animate__animated animate__fadeInUp"
+                data-wow-delay="1.3s"
               >
                 <h5 class="title mb-1 font-semibold">Senior Web Developer</h5>
                 <p class="mt-3 mb-0 text-slate-500 text-[15px]">
@@ -121,7 +136,10 @@
             class="mt-12 ms-8 md:ms-0 relative after:content-[''] after:absolute after:top-[9px] after:rounded-full after:z-10 after:w-2.5 after:h-2.5 after:bg-dark md:after:mx-auto ltr:md:after:right-0 ltr:md:after:left-0 ltr:after:-left-9 rtl:md:after:left-0 rtl:md:after:right-0 rtl:after:-right-9 before:content-[''] before:absolute md:before:mx-auto ltr:md:before:right-0 ltr:md:before:left-0 ltr:before:-left-11 rtl:md:before:left-0 rtl:md:before:right-0 rtl:before:-right-11 before:rounded-full before:z-10 before:border-2 before:border-dashed before:border-gray-300 dark:before:border-gray-700 before:top-0 before:w-7 before:h-7 before:bg-white dark:before:bg-slate-900"
           >
             <div class="grid md:grid-cols-2">
-              <div class="text-start md:ms-8 relative md:order-2">
+              <div
+                class="text-start md:ms-8 relative md:order-2 wow animate__animated animate__fadeInUp"
+                data-wow-delay="1.5s"
+              >
                 <img
                   src="assets/images/logos/freelance-icon.png"
                   class="rounded-full h-9 w-auto md:me-auto"
@@ -132,7 +150,8 @@
               </div>
 
               <div
-                class="ltr:float-left rtl:float-right md:text-end md:me-8 mt-6 md:mt-0 md:order-1"
+                class="ltr:float-left rtl:float-right md:text-end md:me-8 mt-6 md:mt-0 md:order-1 wow animate__animated animate__fadeInUp"
+                data-wow-delay="1.7s"
               >
                 <h5 class="title mb-1 font-semibold">Front-End Developer</h5>
                 <p class="mt-3 mb-0 text-slate-500 text-[15px]">
